@@ -1,0 +1,3 @@
+EXERCISE := blackjack
+
+include ../Makefile
