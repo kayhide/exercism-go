@@ -1,0 +1,3 @@
+EXERCISE := chessboard
+
+include ../Makefile
