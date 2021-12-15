@@ -1,0 +1,3 @@
+EXERCISE := react
+
+include ../Makefile
