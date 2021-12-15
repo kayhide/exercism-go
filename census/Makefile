@@ -1,0 +1,3 @@
+EXERCISE := census
+
+include ../Makefile
