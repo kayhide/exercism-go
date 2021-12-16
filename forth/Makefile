@@ -1,0 +1,3 @@
+EXERCISE := forth
+
+include ../Makefile
